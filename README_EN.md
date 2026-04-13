@@ -4,7 +4,7 @@ English | **[中文](README.md)**
 
 </div>
 
-![darwin.skill](assets/banner.svg)
+![darwin.skill](assets/banner-en.svg)
 
 <div align="center">
 
@@ -28,7 +28,7 @@ npx skills add alchaincyf/darwin-skill
 
 ## The Core Loop
 
-![Core Loop](assets/chart-loop.png)
+![Core Loop](assets/chart-loop-en.png)
 
 Evaluate → Improve → Test → Human Confirm → Keep or Revert. Repeat.
 
@@ -77,7 +77,7 @@ The key difference: autoresearch is fully autonomous (loss is just a number). Sk
 
 Total: 100 points. Structure (60) + Effectiveness (40).
 
-![Evaluation Rubric](assets/chart-rubric.png)
+![Evaluation Rubric](assets/chart-rubric-en.png)
 
 > Live test performance has the highest weight (25 points). A beautifully written skill that produces bad output is still a bad skill.
 
@@ -87,7 +87,7 @@ Total: 100 points. Structure (60) + Effectiveness (40).
 
 Five phases. Only one is the core.
 
-![Optimization Lifecycle](assets/chart-phases.png)
+![Optimization Lifecycle](assets/chart-phases-en.png)
 
 **Phase 2 (the heart):**
 
@@ -104,7 +104,7 @@ Five phases. Only one is the core.
 
 Scores can only go up. Failed experiments are cleanly reverted. No regressions accumulate over time.
 
-![Ratchet Mechanism](assets/chart-ratchet.png)
+![Ratchet Mechanism](assets/chart-ratchet-en.png)
 
 Round 2 scored 75, below the current best of 78. Auto-reverted. Effective baseline stays at 78. Subsequent improvements build from 78, not 75.
 
